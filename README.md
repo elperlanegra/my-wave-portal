@@ -6,10 +6,24 @@ Try running some of the following tasks:
 
 ```shell
 npx hardhat accounts
+```
+```shell
 npx hardhat compile
+```
+```shell
 npx hardhat clean
+```
+```shell
 npx hardhat test
+```
+```shell
 npx hardhat node
+```
+```shell
 node scripts/sample-script.js
+```
+```shell
 npx hardhat help
 ```
+
+
